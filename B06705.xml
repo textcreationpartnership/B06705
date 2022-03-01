@@ -1,0 +1,792 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coffee scuffle, occasioned by a contest between a learned knight, and a pitifull pedagogue. With the character of a coffee-house.</title>
+            <author>Woolnoth, fl. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06705</idno>
+            <idno type="STC">Wing W3528</idno>
+            <idno type="STC">ESTC R186857</idno>
+            <idno type="EEBO-CITATION">52529128</idno>
+            <idno type="OCLC">ocm 52529128</idno>
+            <idno type="VID">179285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179285)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2782:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coffee scuffle, occasioned by a contest between a learned knight, and a pitifull pedagogue. With the character of a coffee-house.</title>
+                  <author>Woolnoth, fl. 1662.</author>
+               </titleStmt>
+               <extent>[18] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold at the Latine Coffee House near the Stocks,</publisher>
+                  <pubPlace>Lodon [sic] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Satirical verses, said to have been made by Woolnoth on Sir J. Langham and Evans, a Schoolmaster"--BM.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Langham, James, --  Sir, 1620?-1699.</term>
+               <term>Coffeehouses --  England --  Poetry --  17th century.</term>
+               <term>Verse satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179285:1"/>
+            <pb facs="tcp:179285:1"/>
+            <p>THE Coffee Scuffle, Occaſioned by a CONTEST Between a Learned Knight, AND A Pitifull Pedagogue. WITH <hi>The Character of a</hi> COFFEE-HOUSE.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LODON,</hi> Printed and are to be ſold at the Latine Coffee Houſe near the Stocks. 1662.</p>
+            <pb facs="tcp:179285:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:179285:2"/>
+            <head>THE Coffee Scuffle.</head>
+            <lg n="1">
+               <head>[1]</head>
+               <l>OF Gyants and Knights, and their terrible Fights</l>
+               <l>We have ſtories enough in Romances,</l>
+               <l>Of <hi>Hercule</hi>'s Beam, and one ey'd <hi>Polipheme,</hi>
+               </l>
+               <l>With <hi>Don Quixot</hi>'s attempts and miſchances:</l>
+            </lg>
+            <lg n="2">
+               <head>[2]</head>
+               <l>But Il' tell you a tale, worth a Noggin of Ale</l>
+               <l>Of a Combate was lately begun</l>
+               <l>Between a brave Knight, and a pitiful Wight</l>
+               <l>That out of th' Arena did run.</l>
+            </lg>
+            <lg n="3">
+               <head>[3]</head>
+               <l>I was t'other day, in a place as they ſay</l>
+               <l>Where Doctors and Schollars aſſemble:</l>
+               <l>Where the folk do ſpeak, nought but Latin &amp; Greek</l>
+               <l>O'twould make a poor Vicar to tremble!</l>
+            </lg>
+            <lg n="4">
+               <head>[4]</head>
+               <l>For hither reſort, a throng of each ſort,</l>
+               <l>Some clad in blew-aprons, ſome ſattin;</l>
+               <l>And each Prentice-boy, and brave Hobedehoi</l>
+               <l>Doth call for his Coffee in Latine.</l>
+            </lg>
+            <lg n="5">
+               <pb facs="tcp:179285:3"/>
+               <head>[5]</head>
+               <l>But did you but hear, their Latin I fear,</l>
+               <l>You'd laugh till you'd burſt your brechees;</l>
+               <l>To ſee with what ſtate, they break Priſſians pate</l>
+               <l>And yet do but ſcratch where it itches.</l>
+            </lg>
+            <lg n="6">
+               <head>[6]</head>
+               <l>One talks, I ſuppoſe, of <hi>Ovid</hi>'s great Noſe,</l>
+               <l>With a Bridge as broad as Biliad;</l>
+               <l>A third breaks his tooth, with cracking forſooth</l>
+               <l>a nutſhel to get out an Iliad.</l>
+            </lg>
+            <lg n="7">
+               <head>[7]</head>
+               <l>One ſtands on his head, ſo Stateſmen are ſaid</l>
+               <l>To kick their heels up in the Air</l>
+               <l>Another Ile be ſwore, doth crawle on all four,</l>
+               <l>And lick up the duſt with great care.</l>
+            </lg>
+            <lg n="8">
+               <head>[8]</head>
+               <l>The former man he, cries up Philoſophy</l>
+               <l>Admireth brave <hi>Euclid, Diſcartis;</hi>
+               </l>
+               <l>The one he crumps roots, and the other he moots,</l>
+               <l>And he's a good Lawyer, a fart he'is.</l>
+            </lg>
+            <lg n="9">
+               <head>[9]</head>
+               <l>The one talks of News, the other of Stews,</l>
+               <l>And a third of pick-pockets and Bears,</l>
+               <l>A fourth doth always curſe Maſques, Balls and Plays</l>
+               <l>Great <hi>Belzebubs</hi> markets he ſwears.</l>
+            </lg>
+            <lg n="10">
+               <head>[10]</head>
+               <l>One loves Mathematicks, the other Fanaticks</l>
+               <l>Store of <hi>Mercuries</hi> here to be found;</l>
+               <l>A third's for a Lecture, a fourth a Conjecture,</l>
+               <l>A fift for a penny in the pound.</l>
+            </lg>
+            <lg n="11">
+               <pb facs="tcp:179285:3"/>
+               <head>[11]</head>
+               <l>One Quack doth pretend to foretell the laſt end,</l>
+               <l>Of Antichriſt even to an hour;</l>
+               <l>And dares to prefix the year ſixty ſix</l>
+               <l>As the period of the Beaſts power.</l>
+            </lg>
+            <lg n="12">
+               <head>[12]</head>
+               <l>The one is for canting the other for ranting,</l>
+               <l>With laughing indangers his crupper;</l>
+               <l>A fourth's for a Faſt, eight hours to laſt</l>
+               <l>But with a good Breakfaſt and Supper.</l>
+            </lg>
+            <lg n="13">
+               <head>[13]</head>
+               <l>The one bids apox, upon <hi>Beza</hi> and <hi>Knox</hi>
+               </l>
+               <l>And the reſt of that damnable Crew,</l>
+               <l>Crys up <hi>Blundel</hi> and <hi>Grotius, Arminius</hi> and <hi>Voſſius</hi>
+               </l>
+               <l>As the Doctors that only ſpeak true.</l>
+            </lg>
+            <lg n="14">
+               <head>[14]</head>
+               <l>Another's for <hi>Lockier,</hi> ſweet <hi>Powel</hi> and <hi>Knocker,</hi>
+               </l>
+               <l>Brother <hi>Jeſſe</hi> and honey mouth'd <hi>Brook,</hi>
+               </l>
+               <l>Who's a licenſe of late, to break Priſſians pate</l>
+               <l>And ſay that his Printer miſtook.</l>
+            </lg>
+            <lg n="15">
+               <head>[15]</head>
+               <l>Some are for <hi>Taylor,</hi> and ſome are for <hi>Naylor</hi>
+               </l>
+               <l>And others do cry up the Whipper;</l>
+               <l>A third is for <hi>Kiffin,</hi> a fourth is for <hi>Giffin,</hi>
+               </l>
+               <l>And a fifth for <hi>Paul Hobs</hi> the Dipper.</l>
+            </lg>
+            <lg n="16">
+               <pb facs="tcp:179285:4"/>
+               <head>[16]</head>
+               <l>One's for a <hi>Teazar,</hi> anothers for <hi>Keyſer,</hi>
+               </l>
+               <l>A third doth his <hi>Gildas</hi> adore,</l>
+               <l>The Counteſſes Uſher, and <hi>Babylons</hi> puſher</l>
+               <l>That can't pay his debts he's ſo poor.</l>
+            </lg>
+            <lg n="17">
+               <head>[17]</head>
+               <l>Which was the viler, <hi>Jack Straw</hi> or <hi>Wat Tyles,</hi>
+               </l>
+               <l>Or the mad Fifth-monarchy vermine?</l>
+               <l>Whether <hi>Harringtons Rota</hi> or <hi>Boyls Vertuoſa</hi>
+               </l>
+               <l>Be the nobler deſign they determine?</l>
+            </lg>
+            <lg n="18">
+               <head>[18]</head>
+               <l>Other ſit and tell tales, of Wakes and Wiſſon Ales,</l>
+               <l>and the Whore of <hi>Romes</hi> bauble the Maypole,</l>
+               <l>The reſt vent their whimſeys, concerning the Chim<g ref="char:EOLhyphen"/>neys,</l>
+               <l>upon which the Parliament lay tole.</l>
+            </lg>
+            <lg n="19">
+               <head>[19]</head>
+               <l>And others I find do diſcourſe of the Wind,</l>
+               <l>And how the Trees kickt up their heels:</l>
+               <l>How Chriſt Church at <hi>Norwich,</hi> the Buſſes at <hi>Harwich</hi>
+               </l>
+               <l>was blown down, and turn'd up their keels.</l>
+            </lg>
+            <lg n="20">
+               <head>[20]</head>
+               <l>How the Countryman ſmil'd to ſee's Cock-loft un<g ref="char:EOLhyphen"/>til'd</l>
+               <l>and the Sun peep thorough the rafters,</l>
+               <l>And how't blew the rug, from off <hi>Robin</hi> and <hi>Jug,</hi>
+               </l>
+               <l>and turn'd to pſeturvey the Wafters.</l>
+            </lg>
+            <lg n="21">
+               <pb facs="tcp:179285:4"/>
+               <head>[21]</head>
+               <l>The one ſwaggers and ſwears, againſt Altars and prayers</l>
+               <l>And bleſſeth the Convocation;</l>
+               <l>Saith 'tis a bad wirk, to make coſtive the Kirk,</l>
+               <l>Conformitie's no Reformation.</l>
+            </lg>
+            <lg n="22">
+               <head>[22]</head>
+               <l>There are many that fear, the plague will be here</l>
+               <l>Before the fourth next month is over.</l>
+               <l>Another ſays may this choke me, if <hi>Corbet</hi> and <hi>Okey</hi>
+               </l>
+               <l>And <hi>Barkſtead</hi> an't landed at <hi>Dover.</hi>
+               </l>
+            </lg>
+            <lg n="23">
+               <head>[23]</head>
+               <l>The one ſee's an Aſſe within a fine glaſs,</l>
+               <l>And ſmickers and grins at the ſame;</l>
+               <l>And wonders I ſwear which way he came there,</l>
+               <l>Into that fine Ebony frame.</l>
+            </lg>
+            <lg n="24">
+               <head>[24]</head>
+               <l>The other talks louder, for Sr. <hi>Kenelms</hi> powder;</l>
+               <l>more ſovereign than that of Steel,</l>
+               <l>Makes uſe of the fiction of pitifull <hi>Ixion,</hi>
+               </l>
+               <l>And alwaies is turning the wheel.</l>
+            </lg>
+            <lg n="25">
+               <head>[25]</head>
+               <l>The one he doth ſmoke, and the other good foke,</l>
+               <l>Say Tobacco's a ſtinking vapour;</l>
+               <l>Another can dandle, a Theife in a Candle,</l>
+               <l>But crucifie <hi>Chriſt</hi> in a Taper.</l>
+            </lg>
+            <lg n="27">
+               <pb facs="tcp:179285:5"/>
+               <head>[27]</head>
+               <l>And thus are they all, both great, wiſe and ſmall'</l>
+               <l>Ingag'd in ſuch tattle if not worſe:</l>
+               <l>And evr'y one doth ſpeak, like the members of <hi>Feak,</hi>
+               </l>
+               <l>or the Goſſips that follow a Courſe.</l>
+            </lg>
+            <lg n="28">
+               <head>[28]</head>
+               <l>The Hoaſt on my Soul's an ingenious Pole,</l>
+               <l>Like <hi>John</hi> in the Wilderneſſe di'ght,</l>
+               <l>The man is ſo pirt, and his loynes are begirt,</l>
+               <l>And the Locuſts ſwarm there every night.</l>
+            </lg>
+            <lg n="29">
+               <head>[29]</head>
+               <l>Good Coffee he draws, and ſhirbets becauſe,</l>
+               <l>They'r pleaſant, and ſweet Chockalet,</l>
+               <l>The former doth ſpe'd all fumes from the head,</l>
+               <l>And the laſt makes the <hi>P—</hi> to curvet.</l>
+            </lg>
+            <lg n="30">
+               <head>[30]</head>
+               <l>No ſack is here drunk, her's no Baud, Whore or Punk</l>
+               <l>But pimping fanaticks good ſtore:</l>
+               <l>The Stocks are too neer, for good Ale, and ſtrong Beer</l>
+               <l>And the Counter to keepe'r a Whore.</l>
+            </lg>
+            <lg n="31">
+               <head>[31]</head>
+               <l>Here come loyal Souls, and fanaticall Fools,</l>
+               <l>The ſons both of God and the Devil:</l>
+               <l>Where Loyaliſts brew, there fanaticks bake too,</l>
+               <l>And the good will be mixt with the evil.</l>
+            </lg>
+            <lg n="35">
+               <pb facs="tcp:179285:5"/>
+               <head>[35]</head>
+               <l>Yet none of them dare ſpeak Latine I ſwear,</l>
+               <l>But a Quack, the more is the wonder:</l>
+               <l>And a dull <hi>Pedagog</hi> with a ſnout lik a hogg,</l>
+               <l>And a face as flat as a Flounder.</l>
+            </lg>
+            <lg n="36">
+               <head>[36]</head>
+               <l>He whips his boyes Aſſes and tickles their Taſſes,</l>
+               <l>Sees which is a man which a woman:</l>
+               <l>And the poor Schollars nock, is his Dyal and Clock;</l>
+               <l>But his own pocky noſe is the <hi>Gnomon.</hi>
+               </l>
+            </lg>
+            <lg n="37">
+               <head>[37]</head>
+               <l>He ſits like a King, a Tyrannical thing,</l>
+               <l>His Desk is his Chair and his Throne:</l>
+               <l>His Scepters a rod, and his globe is a clod,</l>
+               <l>And an old <hi>Oxford</hi> Cuſtard his Crown.</l>
+            </lg>
+            <lg n="38">
+               <head>[38]</head>
+               <l>Verſes and Theams, the petitions it ſeems,</l>
+               <l>which the Shcollars do bring, and he teares:</l>
+               <l>And whether he doth break, I cannot well ſpeak,</l>
+               <l>Poor priſſians pate oftner or Theirs.</l>
+            </lg>
+            <lg n="39">
+               <head>[39]</head>
+               <l>The Welſh man Cot tam her, doth Kenn not the</l>
+               <l>Deſires <hi>Ap Williams</hi> direction, <hi>Grammar:</hi>
+               </l>
+               <l>His mony he earns, but the firſt thing her learns,</l>
+               <l>I dare ſay is an <hi>Interjection.</hi>
+               </l>
+            </lg>
+            <lg n="40">
+               <head>[40]</head>
+               <l>But if ſo be ſome of his Schollars are com'e,</l>
+               <l>To that part, which is called <hi>Syntaxe;</hi>
+               </l>
+               <l>The <hi>Concords</hi> do reach to the Rod and the Breech,</l>
+               <l>And <hi>figura</hi> is read on their backs.</l>
+            </lg>
+            <lg n="41">
+               <pb facs="tcp:179285:6"/>
+               <head>[41]</head>
+               <l>He ha's a forehead of braſs, and eares like an Aſs</l>
+               <l>And he uſes the Welſhmans houlter:</l>
+               <l>His noſe and his ſnout, jet forth like a ſpout,</l>
+               <l>Or if you pleaſe like a Plow Coulter.</l>
+            </lg>
+            <lg n="42">
+               <head>[42]</head>
+               <l>His breath's muckle ſtrong, and his eye brows are long,</l>
+               <l>Yet hath never a hair on his chin:</l>
+               <l>His wide mouth hath ſwallow'd his cheeks that are hollow'd</l>
+               <l>And his bones do crump in his ſkin.</l>
+            </lg>
+            <lg n="43">
+               <head>[43]</head>
+               <l>His eyes are as little as thoſe of a Beetle,</l>
+               <l>But O when he fettles to ſpeak:</l>
+               <l>I dare ſay you may welly, look into his belly,</l>
+               <l>Another devils arſe a peeke.</l>
+            </lg>
+            <lg n="44">
+               <head>[44]</head>
+               <l>His breath would even fill, a ſail drive a mil,</l>
+               <l>His Countenance hollow and meager;</l>
+               <l>Yet his buttocks below, very liking do ſhow,</l>
+               <l>And his ſtomach is coming and eager.</l>
+            </lg>
+            <lg n="45">
+               <head>[45]</head>
+               <l>His face doth look Callous, like one dropt from the Gallows,</l>
+               <l>Or ſome of your Newgate Cattel,</l>
+               <l>But when he ſpeaks plumbs, fill his wizzin and gums</l>
+               <l>I'd as live hear my Grannums breach twattle.</l>
+            </lg>
+            <lg n="46">
+               <head>[46]</head>
+               <l>The man would be kickt, that ſhould think him a pickt:</l>
+               <l>For all his thin jaws and courſe grain,</l>
+               <l>Since the Carrets I trow that do on his head grow,</l>
+               <l>Do rather declare him a Dane.</l>
+            </lg>
+            <lg n="47">
+               <pb facs="tcp:179285:6"/>
+               <head>[47]</head>
+               <l>He hath never a beard, and wel't may be fear'd,</l>
+               <l>That the Gentleman wants a Bobin,</l>
+               <l>Let me be aſperſt if hee's not hoperarc't,</l>
+               <l>Like Aniſeed water <hi>Robin.</hi>
+               </l>
+            </lg>
+            <lg n="48">
+               <head>[48]</head>
+               <l>He's a Batchelor, as ſome do aver,</l>
+               <l>And ſolitarily doth live:</l>
+               <l>He's too nee'r on my life, to marry a wife,</l>
+               <l>Too gluttoning chaſtly to live.</l>
+            </lg>
+            <lg n="49">
+               <head>[49]</head>
+               <l>Whither's hand, or his foot, his glove or his boot</l>
+               <l>Are the bigeſt I cannot well tell:</l>
+               <l>Or which of the two make the greateſt adoe,</l>
+               <l>I ken not the dog or his bell.</l>
+            </lg>
+            <lg n="50">
+               <head>[50]</head>
+               <l>Should <hi>Egypt</hi> I ſay, thy face but ſurvey,</l>
+               <l>Thy uglineſs they would adore:</l>
+               <l>And think thee ſome odde, old <hi>Memphian</hi> god,</l>
+               <l>Found lately caſt upon the ſhoar.</l>
+            </lg>
+            <lg n="51">
+               <head>[51]</head>
+               <l>Let <hi>Africa</hi> ſee her Monſters in thee,</l>
+               <l>The <hi>Crocked'ile, Pardus,</hi> and <hi>Iaccall:</hi>
+               </l>
+               <l>A kennel of thoſe, doth thy perſon diſcloſe,</l>
+               <l>More deformed then thoſe that are black all.</l>
+            </lg>
+            <lg n="52">
+               <head>[52]</head>
+               <l>Sure the Curtaines were rung, with monſters were hung,</l>
+               <l>Or thy Father and Mother were Meager;</l>
+               <l>So <hi>Dames</hi> heretofore, by phancying a <hi>More,</hi>
+               </l>
+               <l>Have been brought to bed of a <hi>Neager.</hi>
+               </l>
+            </lg>
+            <lg n="53">
+               <pb facs="tcp:179285:7"/>
+               <head>[53]</head>
+               <l>He's a <hi>Socinian</hi> in ſome mens opinion,</l>
+               <l>Denyes the divinity of our Saviour:</l>
+               <l>But I am ſure He, hath no humanity,</l>
+               <l>If I underſtand but behaviour.</l>
+            </lg>
+            <lg n="54">
+               <head>[54]</head>
+               <l>One night above others he met his gude Bro<g ref="char:EOLhyphen"/>thers,</l>
+               <l>And down to the Table he ſits:</l>
+               <l>Falls a talking of Latine, like ruffling of Satine,</l>
+               <l>Excepting his hums, and his hits.</l>
+            </lg>
+            <lg n="55">
+               <head>[55]</head>
+               <l>It chanced that night, that a Learned Knight,</l>
+               <l>The glory and ſhame of the Citty,</l>
+               <l>Came into the Room as he uſed to come,</l>
+               <l>A perſon both ſerious and witty.</l>
+            </lg>
+            <lg n="56">
+               <head>[56]</head>
+               <l>Rome never did know, nor <hi>Athens</hi> I trow,</l>
+               <l>One ſpeak pvrer Latine and Greek,</l>
+               <l>If <hi>Tully</hi> were here, or <hi>Demoſthenes</hi> neer,</l>
+               <l>They could not more fluently ſpeak.</l>
+            </lg>
+            <lg n="57">
+               <head>[57]</head>
+               <l>That Schollars are Clowns, and ſlovings in Gowns</l>
+               <l>My Grannum I oft have heard ſay;</l>
+               <l>Call 'em blunt tooles, and dogmaticall fooles,</l>
+               <l>Good only to preach and to pray.</l>
+            </lg>
+            <lg n="58">
+               <head>[58]</head>
+               <l>But Sir I is a Shollar, Il wage you a doller,</l>
+               <l>A Gentleman both born and bred:</l>
+               <l>Bloud, vertue, or either, no buskin or feather,</l>
+               <l>Have made him to be ſo I ded.</l>
+            </lg>
+            <lg n="59">
+               <pb facs="tcp:179285:7"/>
+               <head>[59]</head>
+               <l>Tapſters and Groomes, and men that ſell broomes,</l>
+               <l>Did ſee his accompliſhments thorough,</l>
+               <l>And had not the ſpie been blind with one eye,</l>
+               <l>He had been <hi>Burgeſs</hi> for the Burrough.</l>
+            </lg>
+            <lg n="60">
+               <head>[60]</head>
+               <l>Yet nevertheleſs none but will confeſs,</l>
+               <l>Sir <hi>I</hi>'s of a generous temper:</l>
+               <l>Who know's how to obey, can rule I dare ſay,</l>
+               <l>Subjectio'ns the way to an Empire.</l>
+            </lg>
+            <lg n="61">
+               <head>[61]</head>
+               <l>The Knight, of no worſe did begin to diſcourſe,</l>
+               <l>then of books and of Tongues and of arts:</l>
+               <l>But firſt in the way he a Query did lay,</l>
+               <l>And after his judgment imparts.</l>
+            </lg>
+            <lg n="62">
+               <head>[62]</head>
+               <l>His Queries were not ſuch as <hi>Harrington</hi> wrote,</l>
+               <l>That deſerved a frown and a ſearch:</l>
+               <l>Nor were they indeed ſuch as Captain <hi>Mead,</hi>
+               </l>
+               <l>Did make at <hi>St. Alhallows</hi> Church.</l>
+            </lg>
+            <lg n="63">
+               <head>[63]</head>
+               <l>The query was this, what the reaſon is,</l>
+               <l>That <hi>Holland,</hi> a thick and groſs aire,</l>
+               <l>Should breed as good wits, if not better by hits,</l>
+               <l>Than <hi>England</hi> a Region more fair:</l>
+            </lg>
+            <lg n="64">
+               <head>[64]</head>
+               <l>He inſtanc'd in <hi>Voſſius, Eraſmus,</hi> and <hi>Grotius,</hi>
+               </l>
+               <l>In <hi>Heinſius</hi> and <hi>Schurman</hi> the wonder:</l>
+               <l>
+                  <hi>Spanhemius, Barleus, Vanhelmout, Walleus,</hi>
+               </l>
+               <l>Whoſe fame hath reſounded like Thunder.</l>
+            </lg>
+            <lg n="65">
+               <pb facs="tcp:179285:8"/>
+               <head>[65]</head>
+               <l>But <hi>Grotius</hi> alone, is ſufficiently known,</l>
+               <l>Great Maſter of Tongues, and of Arts;</l>
+               <l>Whom Papiſts deplore, Proteſtants adore,</l>
+               <l>For his profound learning and parts.</l>
+            </lg>
+            <lg n="66">
+               <head>[66]</head>
+               <l>
+                  <hi>Grotius,</hi> whoſe Name, on the wings of fame,</l>
+               <l>Hath been carried where <hi>Grotius</hi> is dumb:</l>
+               <l>The talk of theſe dayes the wonder and maze,</l>
+               <l>Of all generations to come.</l>
+            </lg>
+            <lg n="67">
+               <head>[67]</head>
+               <l>
+                  <hi>Athens</hi> and <hi>Syracuſe, Smarta,</hi> and famous <hi>Greece,</hi>
+               </l>
+               <l>
+                  <hi>Jeruſalem</hi> live in his ſtory:</l>
+               <l>And he that ſhall read his Latine indeed,</l>
+               <l>Will ſwear he ſees <hi>Rome</hi> in his glory.</l>
+            </lg>
+            <lg n="68">
+               <head>[68]</head>
+               <l>His Poems do prove how the <hi>Muſes</hi> did love,</l>
+               <l>The babe, when it lay in its Cradle;</l>
+               <l>How they hung like fond bees, on his lips and his knees</l>
+               <l>As Hiſtorians of <hi>Plato</hi> do fable.</l>
+            </lg>
+            <lg n="69">
+               <head>[69]</head>
+               <l>Before ever (we know) that <hi>Grotius</hi> could goe,</l>
+               <l>Or the leaſt of a man could diſcover:</l>
+               <l>His fancie and wit on <hi>Poeticall</hi> feet,</l>
+               <l>Had travel'd the Vniverſe over.</l>
+            </lg>
+            <lg n="70">
+               <head>[70]</head>
+               <l>Princes and great ones, owe their Scepters and Crownes,</l>
+               <l>To him for his learned defence,</l>
+               <l>Of their honour, and power, the Buckler and Tower</l>
+               <l>Of <hi>Monarchy,</hi> Allegiance.</l>
+            </lg>
+            <lg n="71">
+               <pb facs="tcp:179285:8"/>
+               <head>[71]</head>
+               <l>Who ſee's not his learning hath little diſcerning,</l>
+               <l>Bu't as blind as an Owle or a Widgon;</l>
+               <l>Dull <hi>Atheiſt</hi> for why, who his worth doth deny,</l>
+               <l>Muſt alſo the Truth of Religion.</l>
+            </lg>
+            <lg n="72">
+               <head>[72]</head>
+               <l>But leaſt I ſhould ſtain, ſhould wound or prophane,</l>
+               <l>So precious and ſacred a thing,</l>
+               <l>As <hi>Grotius,</hi> his name, by blending the ſame,</l>
+               <l>With ſuch trifles as theſe that I bring.</l>
+            </lg>
+            <lg n="73">
+               <head>[73]</head>
+               <l>Ile leave him to reſt after ſtormes at the beſt,</l>
+               <l>Good marble lie light on his head:</l>
+               <l>
+                  <hi>Holland</hi> brags of his birth, and <hi>France</hi> of his earth,</l>
+               <l>And the World of his bookes it is ſaid.</l>
+            </lg>
+            <lg n="75">
+               <head>[75]</head>
+               <l>But the ſhade dogs the Sun, and the dog bates the <hi>Moon</hi>
+               </l>
+               <l>No vertue without its diſgraces:</l>
+               <l>Though ſuch ſtories and flams, are but foiles unto Gems,</l>
+               <l>Or black patches to beautiful faces.</l>
+            </lg>
+            <lg n="76">
+               <head>[76]</head>
+               <l>The <hi>Thredbeare</hi> pedant, gan to ſtrut and to vaunt,</l>
+               <l>Cals <hi>Grotius,</hi> a Gobernole Preiſt;</l>
+               <l>A rotten <hi>Arminian,</hi> and wicked <hi>Socinian,</hi>
+               </l>
+               <l>And the ſhort puſhing Horne of the Beaſt.</l>
+            </lg>
+            <lg n="77">
+               <head>[77]</head>
+               <l>Baſe vile Runegado, franciſcan Bravado,</l>
+               <l>Idolater, Cavaleer, what not:</l>
+               <l>Apoſtate, bad liver, and reprobate ſilver,</l>
+               <l>And the ſtripling his Second a hot ſhot.</l>
+            </lg>
+            <lg n="78">
+               <pb facs="tcp:179285:9"/>
+               <head>[78]</head>
+               <l>His Diſcourſes are weak, and his Arguments eke,</l>
+               <l>But his Tenents and principles Hideous,</l>
+               <l>His Lattine withal and his eloquence ſmall,</l>
+               <l>But his pride and ambition prodigious.</l>
+            </lg>
+            <lg n="79">
+               <head>[79]</head>
+               <l>Nor doth he admire <hi>Hugo</hi> or the Squire,</l>
+               <l>But rather demires them both:</l>
+               <l>Gramercy good Joke, tis a quible is ſpoke,</l>
+               <l>And the man is a wit by my troth.</l>
+            </lg>
+            <lg n="80">
+               <head>[80]</head>
+               <l>But ſuch was the ſting of the zealous thing,</l>
+               <l>That he called as many bad names,</l>
+               <l>As the Papiſts did <hi>Parry,</hi> the monk did Old <hi>Harry,</hi>
+               </l>
+               <l>And the boatſwain the <hi>Billings-gate</hi> dames.</l>
+            </lg>
+            <lg n="81">
+               <head>[81]</head>
+               <l>Sir I doth ingage, 'thought paſſion or rage,</l>
+               <l>To vindicate <hi>Grotius</hi> his fame;</l>
+               <l>But as for him<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf let the whippiting elfe,</l>
+               <l>Talk himſelf out of breath a Gods name.</l>
+            </lg>
+            <lg n="82">
+               <head>[82]</head>
+               <l>Tis beneath a great Soul, to regard what a fool</l>
+               <l>His perſon or learning ſhall ſtile,</l>
+               <l>From a Hector or Drab, 'twould call for a ſtab</l>
+               <l>From a Gentleman only a ſmile.</l>
+            </lg>
+            <lg n="83">
+               <head>[83]</head>
+               <l>A ſmile ſometime will, as fatally kill as a Poniard, a Sword or a Dagger,</l>
+               <l>Not to mind or regard, an affront's a reward</l>
+               <l>Sufficient to make a fool ſwagger.</l>
+            </lg>
+            <lg n="84">
+               <pb facs="tcp:179285:9"/>
+               <head>[84]</head>
+               <l>His blood was too thin, and his perſon too mean to merit revenge from Sir <hi>J.</hi>
+               </l>
+               <l>His boys ſhall chaſtiſe, his baſe contumelies;</l>
+               <l>what Eagle will cope with a Flye?</l>
+            </lg>
+            <lg n="85">
+               <head>[85]</head>
+               <l>Let the dogs bough-wough ſoon, our Knight like the Moon ſhall move in his orbe and his ſphear,</l>
+               <l>His fame ſhall be hurl'd, thorough the <hi>Brittiſh</hi> world and his light maugre clouds ſhall appear.</l>
+            </lg>
+            <lg n="86">
+               <head>[86]</head>
+               <l>Sharpe tongues, blubber lips, no more can eclipſe his worth then a punctum of earth,</l>
+               <l>Then a cloud or a ſhade, can skreen and invade the Sun in his glory and mirth.</l>
+            </lg>
+            <lg n="87">
+               <head>[87]</head>
+               <l>Let <hi>E.</hi> and his train go learn <hi>Cato</hi> again, and then let 'em come and diſcourſe;</l>
+               <l>Though the Coffee-houſe can't of much comple<g ref="char:EOLhyphen"/>ment vant yet its dialect is not ſo courſe.</l>
+            </lg>
+            <lg n="88">
+               <head>[88]</head>
+               <l>But who would have thought, that a buſineſs of ſhould occaſion ſuch words with a p— nought</l>
+               <l>When 'twas only I trow, which ſhould uppermoſt go</l>
+               <l>An Engliſh tale or Butterbox.</l>
+            </lg>
+            <lg n="89">
+               <head>[89]</head>
+               <l>Sir <hi>J.</hi> God forbid, he did no way recede from Nature, from Honor or Reaſon:</l>
+               <l>Nor did he forſwear his own Climate and air,</l>
+               <l>which would amount almoſt to treaſon.</l>
+            </lg>
+            <lg n="90">
+               <pb facs="tcp:179285:10" rendition="simple:additions"/>
+               <head>[90]</head>
+               <l>He acknowledged then, that no learneder men have ever been bred on the main,</l>
+               <l>Then have flouriſht ſome while in this troubleſom Iſle and may ſo for all this again.</l>
+            </lg>
+            <lg n="91">
+               <head>[91]</head>
+               <l>Yet 'tis juſtice ſay you, to give all men their due,</l>
+               <l>
+                  <hi>Hugo Grotius</hi> wrote rarely well,</l>
+               <l>And what we can't reach to condemn and impeach is the pride of the Angels that fell.</l>
+            </lg>
+            <lg n="92">
+               <head>[92]</head>
+               <l>Then let pitiful <hi>E</hi> crouch down on his knee, and to the Knight pardon implore:</l>
+               <l>His boys you may ſwear, with many a tear for leſſer miſtakes have done more.</l>
+            </lg>
+            <lg n="93">
+               <head>[93]</head>
+               <l>So thus together they came, like two Cocks of the game,</l>
+               <l>But what was the iſſue ſay you ſirs?</l>
+               <l>
+                  <hi>E.</hi> had the beſt beak, if I may ſo ſpeak,</l>
+               <l>But Sir <hi>J.</hi> had the ſharper Spurs.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179285:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
